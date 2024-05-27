@@ -1,4 +1,4 @@
-package com.txtEdt;
+package com.txtEdit;
 
 import java.awt.*;
 import java.awt.event.*;
