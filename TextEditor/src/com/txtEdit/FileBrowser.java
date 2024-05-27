@@ -99,12 +99,4 @@ public class FileBrowser extends JPanel implements ActionListener {
         fileList.repaint();
     }
 
-//    public static void main(String[] args) {
-//        JFrame frame = new JFrame("File Browser");
-//        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//        frame.setSize(500, 400);
-//        FileBrowser browser = new FileBrowser("files");
-//        frame.add(browser);
-//        frame.setVisible(true);
-//    }
 }
