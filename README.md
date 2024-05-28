@@ -5,6 +5,7 @@
 - Java Swing
 - JPanel
 - JFrame
+- File Handling
 
 ### Overview:
 TextEditor is a desktop application developed in Java using Java Swing for the graphical user interface. 
